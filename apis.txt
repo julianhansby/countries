@@ -1,0 +1,13 @@
+GET
+=======================
+
+/stores/
+/stores/id
+
+
+POST
+=======================
+
+/capture/storeid
+
+- add all fields as an object
